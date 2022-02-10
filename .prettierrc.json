@@ -1,7 +1,9 @@
 {
-  "useTabs": false,
-  "trailingComma": "es5",
-  "tabWidth": 2,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "ignore",
+  "semi": false,
   "singleQuote": true,
-  "semi": false
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false
 }

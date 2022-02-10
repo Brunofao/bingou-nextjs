@@ -1,0 +1,5 @@
+.eslintcache
+.next
+build
+coverage
+node_modules
